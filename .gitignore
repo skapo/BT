@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0.3
 // @description  BitTube Never Stop Ever Again
-// @author       ReaperBot
+// @author       SKAPO
 // @match        *.bit.tube/*
 // @grant        none
 // ==/UserScript==
